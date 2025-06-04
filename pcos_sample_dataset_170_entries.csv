@@ -1,0 +1,171 @@
+Age,Weight (kg),Height (cm),BMI,Menstrual History,Acne,Hirsutism,Hair Thinning,Weight Gain,Fatigue,Gut Issues,Anxiety/Mood Swings,On the Pill,Family History of PCOS,Testosterone,DHEA-S,LH/FSH Ratio,AMH,Fasting Insulin,Fasting Glucose,CRP,TSH,PCOS Detected,PCOS Type
+39,55,175,18.0,Regular,No,Yes,No,No,No,No,No,No,Yes,High,High,1.87,3.1,17.0,72,0.69,0.95,Yes,Post-Pill
+36,57,158,22.8,Regular,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Normal,High,3.23,8.9,12.9,107,9.38,4.16,Yes,Insulin Resistant
+33,80,179,25.0,Regular,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Normal,High,2.75,2.1,16.8,113,6.97,5.39,Yes,Insulin Resistant
+29,74,168,26.2,Regular,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,High,High,2.38,1.3,29.8,73,6.31,1.32,Yes,Post-Pill
+33,91,174,30.1,Irregular,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Normal,High,1.07,5.4,17.9,103,4.31,5.76,Yes,Inflammatory
+21,45,162,17.1,Regular,Yes,Yes,No,Yes,No,No,No,No,No,High,High,2.21,7.7,28.4,87,0.45,0.52,Yes,Adrenal
+33,100,162,38.1,Regular,No,Yes,No,No,Yes,Yes,No,No,Yes,High,High,3.06,8.7,18.9,85,7.51,2.74,Yes,Inflammatory
+20,51,161,19.7,Irregular,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Normal,High,0.84,3.6,12.8,95,9.19,0.64,Yes,Insulin Resistant
+22,57,171,19.5,Regular,No,Yes,Yes,Yes,Yes,No,No,Yes,No,High,High,3.06,4.1,17.1,86,2.14,2.97,Yes,Lean PCOS
+39,80,164,29.7,Irregular,Yes,No,No,Yes,No,No,No,Yes,No,Normal,High,2.35,1.3,26.7,122,5.28,1.03,Yes,Lean PCOS
+40,49,167,17.6,Regular,No,Yes,Yes,No,No,No,Yes,No,No,High,High,2.96,2.8,2.5,71,3.93,2.98,Yes,Insulin Resistant
+32,89,151,39.0,Irregular,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Normal,High,0.53,3.3,13.0,80,7.22,0.87,Yes,Hidden/Secondary
+30,52,152,22.5,Regular,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Normal,High,2.43,3.5,18.7,104,8.32,0.58,Yes,Hypo Thyroid Induced
+24,88,175,28.7,Irregular,No,Yes,Yes,Yes,No,No,No,Yes,No,High,Normal,3.19,7.5,22.0,77,1.48,0.61,Yes,Inflammatory
+40,89,158,35.7,Regular,No,No,Yes,No,No,Yes,Yes,No,No,Normal,Normal,3.42,2.6,19.3,130,3.88,5.46,Yes,Adrenal
+25,84,151,36.8,Regular,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,High,High,2.03,7.7,11.4,73,3.85,2.9,Yes,Lean PCOS
+31,75,162,28.6,Regular,No,No,Yes,No,No,No,No,No,Yes,High,High,1.65,1.4,23.8,128,3.77,0.89,Yes,Toxin Induced
+33,72,170,24.9,Regular,Yes,No,Yes,No,No,No,No,No,No,Normal,Normal,1.85,3.5,28.4,77,4.53,3.98,Yes,Hypo Thyroid Induced
+37,80,164,29.7,Irregular,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,High,High,3.33,5.7,24.0,89,9.12,0.5,Yes,Post-Pill
+34,45,180,13.9,Regular,No,No,No,No,No,Yes,No,Yes,No,Normal,High,1.89,2.6,17.9,87,5.49,2.02,Yes,Lean PCOS
+37,81,168,28.7,Irregular,Yes,No,No,Yes,No,Yes,No,Yes,No,Normal,High,1.44,9.2,6.4,71,3.12,2.87,Yes,Lean PCOS
+30,61,169,21.4,Regular,Yes,Yes,Yes,Yes,No,No,No,No,Yes,High,High,1.37,3.4,27.0,104,1.3,0.56,Yes,Hypo Thyroid Induced
+39,74,173,24.7,Irregular,Yes,No,Yes,Yes,No,No,No,Yes,No,Normal,High,3.47,1.1,9.0,110,2.06,4.84,Yes,Adrenal
+30,79,172,26.7,Irregular,No,Yes,No,No,Yes,Yes,Yes,No,No,Normal,Normal,2.54,9.7,9.5,87,6.6,1.58,Yes,Toxin Induced
+21,90,156,37.0,Regular,Yes,Yes,Yes,No,No,No,Yes,No,No,Normal,High,0.52,4.9,19.6,110,5.33,0.81,Yes,Lean PCOS
+18,89,168,31.5,Irregular,Yes,Yes,No,Yes,No,No,No,No,Yes,High,High,3.48,2.9,19.0,112,7.68,4.27,Yes,Hidden/Secondary
+23,85,155,35.4,Irregular,No,No,No,Yes,No,No,Yes,No,Yes,High,Normal,1.94,1.6,8.4,114,2.52,0.9,Yes,Lean PCOS
+39,64,152,27.7,Regular,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Normal,High,1.73,9.7,17.1,105,7.71,1.39,Yes,Hidden/Secondary
+19,76,165,27.9,Irregular,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Normal,Normal,3.12,1.7,19.0,88,8.57,5.5,Yes,Post-Pill
+40,67,168,23.7,Irregular,Yes,No,Yes,No,No,Yes,No,No,Yes,Normal,High,2.15,1.5,4.3,111,6.41,1.31,Yes,Hidden/Secondary
+39,49,158,19.6,Regular,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,High,Normal,2.71,4.8,15.0,90,5.79,3.48,Yes,Post-Pill
+24,70,164,26.0,Regular,Yes,No,No,No,Yes,No,No,No,Yes,High,Normal,3.09,6.1,13.1,76,2.21,1.67,Yes,Post-Pill
+27,69,161,26.6,Irregular,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,High,Normal,2.25,1.5,3.7,105,8.47,4.47,Yes,Adrenal
+38,100,150,44.4,Irregular,No,Yes,Yes,Yes,No,Yes,No,No,No,High,High,2.57,4.3,28.6,90,8.3,2.23,Yes,Lean PCOS
+31,83,179,25.9,Irregular,No,Yes,No,No,No,Yes,No,Yes,No,High,Normal,3.4,4.9,14.2,123,5.46,1.84,Yes,Post-Pill
+35,84,176,27.1,Irregular,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,High,High,2.27,4.3,26.4,93,1.62,1.24,Yes,Inflammatory
+34,63,157,25.6,Regular,Yes,Yes,Yes,No,No,No,No,No,Yes,High,High,0.51,1.5,19.6,90,2.7,3.38,Yes,Adrenal
+39,83,151,36.4,Irregular,Yes,No,No,No,Yes,No,No,No,No,Normal,High,2.31,4.4,19.3,117,3.71,1.08,Yes,Toxin Induced
+30,45,175,14.7,Regular,No,No,Yes,No,Yes,No,Yes,Yes,Yes,High,High,3.06,6.8,15.0,104,0.84,1.76,Yes,Inflammatory
+34,56,169,19.6,Regular,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Normal,Normal,1.42,1.6,14.0,86,1.89,1.41,Yes,Toxin Induced
+23,70,161,27.0,Irregular,Yes,No,Yes,Yes,No,No,No,No,No,Normal,Normal,0.52,8.5,9.8,86,5.35,4.33,Yes,Inflammatory
+19,65,158,26.0,Regular,Yes,No,Yes,No,Yes,No,No,No,Yes,Normal,Normal,3.21,7.7,5.3,77,3.72,1.56,Yes,Toxin Induced
+33,97,150,43.1,Irregular,No,Yes,No,No,No,No,Yes,Yes,No,High,Normal,1.97,8.0,27.0,96,2.1,0.66,Yes,Adrenal
+37,80,153,34.2,Irregular,Yes,No,No,No,No,No,No,Yes,Yes,Normal,Normal,0.86,7.0,5.7,97,2.77,1.4,Yes,Lean PCOS
+27,81,169,28.4,Regular,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,High,High,2.75,8.2,2.0,117,6.32,5.5,Yes,Hidden/Secondary
+34,90,178,28.4,Irregular,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Normal,Normal,2.69,8.9,24.8,78,2.68,5.42,Yes,Inflammatory
+32,98,159,38.8,Irregular,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,High,Normal,3.01,7.6,11.6,84,5.39,4.42,Yes,Adrenal
+31,74,170,25.6,Regular,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,High,High,0.58,9.5,27.8,97,7.37,2.83,Yes,Toxin Induced
+30,48,166,17.4,Regular,No,Yes,Yes,No,Yes,No,Yes,No,No,High,Normal,3.42,2.4,6.4,90,3.32,0.45,Yes,Hypo Thyroid Induced
+23,75,152,32.5,Regular,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Normal,Normal,3.4,1.4,26.7,72,4.45,3.08,Yes,Toxin Induced
+28,69,180,21.3,Regular,Yes,Yes,No,No,No,No,No,No,No,High,High,1.19,5.5,15.6,102,3.38,5.37,Yes,Inflammatory
+25,89,174,29.4,Regular,Yes,No,Yes,No,Yes,No,Yes,No,Yes,High,Normal,3.05,1.4,26.3,74,6.05,5.08,Yes,Post-Pill
+38,66,151,28.9,Irregular,No,No,Yes,Yes,No,No,No,No,No,Normal,High,3.11,7.5,28.0,110,0.69,2.69,Yes,Adrenal
+37,97,161,37.4,Irregular,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Normal,High,1.9,8.0,4.1,122,3.64,2.96,Yes,Hidden/Secondary
+20,76,167,27.3,Irregular,No,Yes,Yes,No,No,No,No,No,No,Normal,Normal,2.59,2.0,22.8,114,5.46,1.71,Yes,Insulin Resistant
+40,77,154,32.5,Irregular,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Normal,Normal,1.66,3.4,7.7,111,5.55,5.45,Yes,Insulin Resistant
+39,80,157,32.5,Regular,Yes,No,No,No,No,No,No,Yes,No,High,Normal,1.51,4.4,17.2,97,7.15,5.77,Yes,Lean PCOS
+34,86,178,27.1,Irregular,Yes,No,No,Yes,No,Yes,Yes,No,Yes,High,Normal,0.94,2.0,24.1,97,8.37,1.74,Yes,Insulin Resistant
+36,82,168,29.1,Irregular,No,No,Yes,No,No,No,No,No,No,Normal,High,3.02,9.3,8.4,110,0.73,4.91,Yes,Adrenal
+39,85,161,32.8,Regular,No,No,Yes,No,No,No,No,Yes,No,Normal,Normal,0.55,9.0,4.8,76,2.46,0.93,Yes,Hidden/Secondary
+19,98,161,37.8,Regular,Yes,No,No,Yes,Yes,No,No,Yes,No,Normal,High,1.88,8.4,2.8,130,2.98,2.68,Yes,Lean PCOS
+40,85,154,35.8,Regular,Yes,Yes,No,No,Yes,Yes,No,No,Yes,High,High,2.93,1.7,22.5,114,6.73,5.9,Yes,Insulin Resistant
+21,55,167,19.7,Irregular,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,High,Normal,3.33,5.9,16.2,86,5.95,1.5,Yes,Insulin Resistant
+31,56,170,19.4,Regular,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,High,High,1.26,3.9,15.9,84,8.42,2.17,Yes,Toxin Induced
+40,61,154,25.7,Irregular,No,Yes,Yes,No,No,No,No,Yes,Yes,Normal,Normal,2.77,6.1,25.8,108,5.38,3.61,Yes,Insulin Resistant
+18,65,162,24.8,Regular,No,Yes,No,No,Yes,No,Yes,Yes,No,Normal,Normal,3.32,5.2,22.2,106,7.61,2.35,Yes,Toxin Induced
+29,95,154,40.1,Regular,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Normal,High,1.36,5.1,23.8,83,7.75,2.01,Yes,Insulin Resistant
+21,73,178,23.0,Regular,Yes,No,Yes,No,Yes,No,Yes,No,No,High,High,3.2,5.6,13.4,87,9.2,2.4,Yes,Post-Pill
+25,99,162,37.7,Regular,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,High,Normal,3.25,7.6,9.9,121,9.45,3.29,Yes,Inflammatory
+39,93,178,29.4,Irregular,No,Yes,No,No,No,Yes,Yes,Yes,Yes,High,Normal,1.82,9.1,15.3,126,7.49,4.68,Yes,Toxin Induced
+18,100,177,31.9,Irregular,No,No,Yes,Yes,Yes,No,No,No,No,Normal,High,3.29,9.9,15.9,109,0.16,1.28,Yes,Hidden/Secondary
+34,70,153,29.9,Irregular,Yes,No,Yes,Yes,Yes,No,No,No,No,High,High,2.15,4.6,3.5,110,6.51,1.62,Yes,Toxin Induced
+26,53,171,18.1,Regular,Yes,No,Yes,No,No,No,No,No,No,High,High,2.89,7.3,26.6,99,6.9,1.78,Yes,Insulin Resistant
+27,50,164,18.6,Regular,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Normal,High,2.36,9.6,16.5,70,9.12,3.83,Yes,Hypo Thyroid Induced
+22,51,177,16.3,Irregular,Yes,No,No,Yes,Yes,Yes,Yes,No,No,High,Normal,3.48,7.9,2.8,85,6.12,2.01,Yes,Toxin Induced
+26,59,180,18.2,Irregular,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Normal,High,2.09,5.9,23.8,72,9.1,4.61,Yes,Inflammatory
+34,88,161,33.9,Regular,Yes,Yes,Yes,No,Yes,No,No,Yes,No,High,Normal,1.64,7.3,28.1,114,2.21,1.3,Yes,Lean PCOS
+27,92,167,33.0,Regular,Yes,No,Yes,No,No,Yes,No,No,Yes,High,High,2.52,5.9,9.3,109,1.55,5.15,Yes,Insulin Resistant
+24,55,167,19.7,Irregular,No,No,No,Yes,No,No,No,No,Yes,High,High,1.07,3.3,5.3,118,8.41,4.47,Yes,Toxin Induced
+26,97,159,38.4,Irregular,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,High,High,0.6,9.9,15.6,101,4.57,0.58,Yes,Toxin Induced
+23,80,174,26.4,Regular,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,High,High,0.55,4.0,27.2,111,5.08,2.59,Yes,Hidden/Secondary
+20,62,150,27.6,Irregular,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,High,Normal,3.28,1.6,4.6,85,2.09,3.91,Yes,Insulin Resistant
+37,56,176,18.1,Irregular,Yes,No,Yes,Yes,Yes,No,No,No,No,Normal,Normal,1.26,9.9,13.5,88,6.36,1.07,Yes,Lean PCOS
+33,67,163,25.2,Regular,Yes,Yes,No,Yes,No,No,Yes,No,No,High,High,3.39,5.6,15.4,112,2.02,2.37,Yes,Hypo Thyroid Induced
+38,65,157,26.4,Regular,Yes,No,Yes,No,No,Yes,No,No,No,High,Normal,2.19,5.0,2.3,120,8.11,5.94,Yes,Adrenal
+30,49,174,16.2,Regular,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Normal,Normal,2.1,1.6,9.6,97,9.91,3.96,Yes,Toxin Induced
+37,89,174,29.4,Regular,No,No,Yes,No,Yes,No,No,Yes,Yes,Normal,High,1.57,7.9,15.3,88,0.25,5.84,Yes,Adrenal
+30,78,175,25.5,Irregular,Yes,No,Yes,No,No,Yes,No,Yes,No,High,Normal,3.15,4.8,5.6,113,6.45,2.13,Yes,Insulin Resistant
+20,89,173,29.7,Regular,Yes,Yes,Yes,Yes,No,Yes,No,No,No,High,Normal,1.89,3.4,5.8,96,4.01,2.19,Yes,Adrenal
+38,92,175,30.0,Regular,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Normal,High,1.95,8.7,5.1,98,1.23,1.11,Yes,Insulin Resistant
+40,85,154,35.8,Irregular,Yes,No,Yes,No,No,No,Yes,Yes,No,High,High,3.12,1.7,6.8,73,9.62,0.41,Yes,Post-Pill
+36,49,154,20.7,Irregular,Yes,No,Yes,Yes,No,No,No,Yes,Yes,High,High,1.31,3.5,17.5,120,0.91,1.33,Yes,Toxin Induced
+21,45,150,20.0,Regular,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Normal,Normal,3.17,1.9,25.7,114,7.78,5.14,Yes,Insulin Resistant
+27,65,163,24.5,Regular,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Normal,High,1.58,8.0,29.8,99,0.29,1.54,Yes,Toxin Induced
+24,70,180,21.6,Regular,No,Yes,No,No,Yes,No,No,Yes,Yes,High,High,2.35,2.9,24.6,89,7.78,4.43,Yes,Hypo Thyroid Induced
+20,84,169,29.4,Regular,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Normal,High,1.62,8.9,19.6,120,9.17,0.83,Yes,Lean PCOS
+20,63,155,26.2,Irregular,No,No,No,No,Yes,No,No,Yes,Yes,Normal,High,1.22,8.5,29.3,92,1.38,4.33,Yes,Inflammatory
+19,92,180,28.4,Regular,Yes,No,Yes,No,No,Yes,No,No,Yes,High,High,1.38,6.7,5.3,88,4.02,2.82,Yes,Inflammatory
+24,56,180,17.3,Regular,No,Yes,Yes,No,No,No,Yes,Yes,No,Normal,High,2.33,2.0,26.4,112,6.83,4.91,Yes,Adrenal
+30,71,155,29.6,Irregular,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Normal,Normal,1.47,7.2,7.8,106,7.33,3.43,Yes,Post-Pill
+24,99,178,31.2,Irregular,No,No,No,No,No,No,No,Yes,No,High,Normal,1.7,2.2,8.1,106,3.35,3.57,No,None
+38,89,171,30.4,Regular,Yes,No,No,Yes,No,No,Yes,Yes,No,Normal,High,0.73,1.7,12.8,88,9.81,2.34,No,None
+30,57,170,19.7,Regular,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Normal,High,3.22,4.3,7.0,85,2.89,1.75,No,None
+20,91,163,34.3,Irregular,No,Yes,No,Yes,Yes,No,No,No,Yes,High,Normal,1.24,9.2,22.3,88,9.64,4.34,No,None
+35,89,170,30.8,Irregular,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Normal,High,1.74,4.8,6.3,93,3.26,3.22,No,None
+25,61,165,22.4,Regular,No,No,Yes,Yes,No,No,No,Yes,No,Normal,Normal,3.16,5.0,18.8,75,8.21,1.59,No,None
+26,83,169,29.1,Irregular,No,Yes,Yes,No,No,No,Yes,No,Yes,High,Normal,1.01,5.3,11.2,103,5.7,4.88,No,None
+35,52,178,16.4,Regular,Yes,Yes,No,No,No,No,Yes,Yes,No,Normal,Normal,2.57,7.9,4.7,119,4.55,1.63,No,None
+22,85,159,33.6,Regular,No,Yes,Yes,Yes,No,No,No,Yes,No,Normal,High,3.2,7.4,23.4,83,2.36,4.42,No,None
+34,99,157,40.2,Regular,No,No,No,No,Yes,Yes,Yes,Yes,Yes,High,Normal,0.63,7.8,19.8,80,7.23,2.63,No,None
+33,45,151,19.7,Irregular,No,Yes,No,Yes,No,No,Yes,No,Yes,High,High,0.88,4.9,12.2,90,3.87,1.62,No,None
+33,84,172,28.4,Irregular,No,Yes,No,Yes,No,No,Yes,No,Yes,Normal,High,1.8,2.1,10.1,122,1.33,1.89,No,None
+24,51,172,17.2,Irregular,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Normal,Normal,3.49,1.1,28.6,107,1.81,0.76,No,None
+37,90,160,35.2,Irregular,No,No,No,No,No,No,Yes,Yes,Yes,High,High,0.67,8.8,28.9,83,8.98,1.87,No,None
+35,100,151,43.9,Irregular,No,Yes,No,Yes,No,Yes,Yes,No,No,Normal,High,2.65,6.5,19.5,126,9.02,5.21,No,None
+39,50,175,16.3,Regular,No,No,No,No,Yes,Yes,No,No,No,Normal,Normal,3.13,2.7,27.4,105,1.05,5.24,No,None
+34,74,175,24.2,Regular,No,No,No,No,Yes,Yes,Yes,Yes,No,High,Normal,3.27,7.6,22.5,80,1.97,3.78,No,None
+40,94,177,30.0,Irregular,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,High,High,1.47,7.1,7.3,97,5.15,5.82,No,None
+30,59,158,23.6,Irregular,Yes,No,No,No,Yes,No,Yes,No,No,High,Normal,3.31,3.3,7.0,118,0.46,5.01,No,None
+36,71,164,26.4,Irregular,No,No,Yes,No,No,Yes,No,Yes,No,Normal,Normal,2.16,2.1,14.6,106,6.99,1.24,No,None
+26,92,151,40.3,Irregular,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Normal,High,2.03,5.9,24.4,85,6.43,5.1,No,None
+27,48,170,16.6,Irregular,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,High,High,0.62,6.3,9.9,96,7.5,2.13,No,None
+34,51,167,18.3,Irregular,No,No,Yes,No,Yes,No,No,Yes,No,Normal,High,1.69,1.8,28.2,74,7.53,1.87,No,None
+30,86,177,27.5,Irregular,No,No,Yes,No,No,Yes,No,Yes,No,High,Normal,2.9,5.9,5.7,108,9.42,3.88,No,None
+21,55,165,20.2,Irregular,No,Yes,No,Yes,Yes,No,No,No,No,High,Normal,2.12,7.9,16.7,83,7.91,1.14,No,None
+24,48,178,15.1,Regular,Yes,No,Yes,No,Yes,Yes,No,No,Yes,High,High,3.33,9.0,29.3,71,3.54,2.82,No,None
+25,70,178,22.1,Regular,No,No,No,Yes,Yes,Yes,No,Yes,No,Normal,High,2.7,3.6,6.8,125,4.74,5.02,No,None
+31,97,164,36.1,Irregular,No,Yes,No,Yes,Yes,No,No,No,Yes,Normal,Normal,1.44,6.5,20.6,114,4.66,5.17,No,None
+38,61,176,19.7,Regular,Yes,Yes,Yes,No,No,Yes,No,No,Yes,High,High,1.58,7.5,26.9,127,6.07,1.66,No,None
+38,56,163,21.1,Irregular,No,Yes,No,No,No,Yes,No,Yes,Yes,High,High,2.75,6.6,6.6,103,0.4,2.9,No,None
+27,54,151,23.7,Irregular,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,High,Normal,1.32,5.7,13.0,94,3.05,4.56,No,None
+29,73,165,26.8,Irregular,No,No,No,No,No,No,Yes,Yes,No,Normal,Normal,2.22,8.7,21.1,77,9.48,2.21,No,None
+22,46,154,19.4,Irregular,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Normal,High,2.56,5.4,11.1,71,6.68,5.45,No,None
+33,84,165,30.9,Regular,No,No,No,No,No,Yes,No,No,No,Normal,High,2.29,3.2,4.5,99,7.41,0.95,No,None
+40,65,150,28.9,Irregular,Yes,No,Yes,Yes,No,No,No,Yes,No,High,Normal,1.32,4.5,11.4,118,3.88,4.62,No,None
+38,96,160,37.5,Irregular,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Normal,High,0.72,3.0,23.5,113,8.48,4.0,No,None
+27,100,152,43.3,Irregular,Yes,No,Yes,No,No,Yes,No,No,Yes,Normal,Normal,1.26,4.7,12.9,112,5.73,4.87,No,None
+33,59,154,24.9,Regular,No,Yes,Yes,No,Yes,No,No,Yes,No,High,High,0.86,2.0,15.7,86,9.73,3.63,No,None
+30,50,156,20.5,Irregular,Yes,No,No,Yes,No,No,No,No,Yes,Normal,Normal,1.82,7.2,13.2,82,9.72,4.97,No,None
+25,95,151,41.7,Irregular,No,No,No,No,No,No,No,No,Yes,High,Normal,3.44,8.1,25.6,103,3.09,4.89,No,None
+40,78,176,25.2,Regular,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,High,High,1.03,3.4,26.2,114,1.03,0.54,No,None
+34,76,170,26.3,Regular,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Normal,High,2.87,5.7,10.8,117,1.24,5.61,No,None
+33,45,169,15.8,Irregular,Yes,Yes,No,Yes,No,No,Yes,No,No,Normal,High,3.32,5.7,4.5,75,6.76,4.8,No,None
+23,57,175,18.6,Irregular,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Normal,Normal,2.23,5.2,3.8,73,4.22,4.99,No,None
+29,68,154,28.7,Regular,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Normal,High,1.57,3.6,29.6,96,5.65,2.5,No,None
+39,77,160,30.1,Irregular,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Normal,High,1.39,7.7,2.7,91,2.6,5.32,No,None
+29,67,167,24.0,Irregular,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,High,Normal,3.02,8.8,12.8,126,8.21,4.47,No,None
+29,94,161,36.3,Irregular,Yes,No,No,No,Yes,No,Yes,Yes,No,High,Normal,3.01,9.3,11.1,101,2.8,3.2,No,None
+27,58,178,18.3,Irregular,No,No,Yes,Yes,No,Yes,Yes,No,No,Normal,Normal,0.74,5.7,5.1,107,7.58,0.36,No,None
+22,95,152,41.1,Irregular,No,Yes,No,Yes,Yes,No,Yes,No,No,Normal,High,2.74,9.3,12.1,88,8.33,1.24,No,None
+32,87,164,32.3,Irregular,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Normal,Normal,2.77,5.5,21.9,123,0.36,4.14,No,None
+21,72,158,28.8,Irregular,Yes,No,Yes,Yes,Yes,No,No,No,No,High,High,0.57,8.2,7.0,77,5.6,3.25,No,None
+22,77,180,23.8,Regular,No,Yes,No,No,Yes,No,No,Yes,Yes,High,Normal,1.41,7.7,26.0,91,3.16,4.18,No,None
+28,86,170,29.8,Regular,No,Yes,Yes,No,Yes,Yes,Yes,No,No,High,Normal,2.59,9.2,18.1,118,1.29,5.96,No,None
+27,93,173,31.1,Irregular,Yes,Yes,Yes,No,Yes,No,Yes,No,No,High,High,2.67,8.3,8.9,94,6.96,5.51,No,None
+33,85,168,30.1,Regular,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Normal,Normal,2.19,9.1,15.1,99,8.46,4.69,No,None
+35,64,165,23.5,Irregular,No,No,Yes,Yes,No,No,Yes,No,No,High,Normal,1.42,7.6,2.9,104,5.53,5.39,No,None
+19,93,171,31.8,Regular,No,Yes,No,No,No,Yes,Yes,Yes,Yes,High,High,2.31,7.2,7.8,88,2.07,4.28,No,None
+21,80,179,25.0,Regular,Yes,Yes,No,No,No,Yes,No,Yes,Yes,High,High,2.56,2.0,14.0,107,6.52,0.68,No,None
+28,63,155,26.2,Regular,No,No,No,No,No,Yes,No,No,Yes,Normal,High,1.84,8.5,4.9,80,6.03,3.08,No,None
+30,49,176,15.8,Irregular,No,Yes,No,Yes,No,No,Yes,No,Yes,Normal,High,1.68,5.1,9.4,92,2.99,0.34,No,None
+18,92,177,29.4,Regular,No,No,Yes,Yes,Yes,Yes,No,Yes,No,High,Normal,2.86,3.7,11.2,71,1.71,3.59,No,None
+38,98,152,42.4,Irregular,Yes,No,No,Yes,No,No,No,Yes,No,High,Normal,0.69,1.7,13.6,85,8.31,3.79,No,None
+32,99,158,39.7,Irregular,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Normal,Normal,0.59,1.3,29.9,83,9.57,5.0,No,None
+22,65,172,22.0,Regular,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,High,High,2.02,9.4,2.3,103,1.14,3.03,No,None
+35,93,152,40.3,Irregular,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,High,Normal,2.21,7.8,9.5,113,2.29,1.96,No,None
+39,52,165,19.1,Regular,No,No,Yes,No,Yes,Yes,Yes,Yes,No,High,High,1.65,5.5,15.7,93,9.38,4.51,No,None
+18,61,167,21.9,Irregular,Yes,No,No,Yes,Yes,Yes,Yes,No,No,High,Normal,2.11,3.5,14.2,111,2.0,0.4,No,None
+22,92,172,31.1,Irregular,No,No,No,No,Yes,Yes,No,Yes,Yes,High,High,1.79,7.5,27.5,104,5.06,1.95,No,None
+21,54,167,19.4,Irregular,No,Yes,No,No,Yes,No,No,Yes,No,High,High,0.61,6.0,11.8,114,8.53,3.95,No,None
